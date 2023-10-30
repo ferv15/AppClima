@@ -1,0 +1,30 @@
+body{
+    background-color: black; 
+    color: white;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 40%;
+    width: 40%;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+}
+h1, h2{
+    margin: 0;
+}
+button{
+    border-color: rgb(240, 235, 235);
+    background-color: darkred;
+}
+.carga{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
